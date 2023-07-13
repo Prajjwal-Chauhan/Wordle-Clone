@@ -14,6 +14,16 @@ This repository contains a fun and interactive Wordle game clone built using HTM
 
 ⭐ The game supports dictionary lookup for valid words and provides hints if needed.
 
+## Game ScreenShots
+
+![Screenshot 2023-07-13 11 55 13](https://github.com/Prajjwal-Chauhan/Wordle-Clone/assets/83890311/37c2e28a-26e2-413f-b271-2a4546c8d676)
+![Screenshot 2023-07-13 115533](https://github.com/Prajjwal-Chauhan/Wordle-Clone/assets/83890311/323e7540-636c-4d0b-b01b-db3a74a85e64)
+![Screenshot 2023-07-13 11 55 50](https://github.com/Prajjwal-Chauhan/Wordle-Clone/assets/83890311/6ce0fe9a-6e75-4474-87ac-25153c6b5293)
+![Screenshot 2023-07-13 11 59 09](https://github.com/Prajjwal-Chauhan/Wordle-Clone/assets/83890311/da824849-4810-448b-9036-1b9d23e833a2)
+
+
+
+
 ## Technologies Used
 
 The following technologies and libraries were used to develop this Wordle game clone:
